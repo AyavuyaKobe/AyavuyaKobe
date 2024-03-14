@@ -16,8 +16,6 @@ technologies and industry trends.
   - Python
   - JavaScript
   - Java
-  - C#
-  - C++
 - **Web Development:**
   - HTML5
   - CSS3
@@ -27,7 +25,6 @@ technologies and industry trends.
   - React.js
   - Vue.js
   - Angular
-  - jQuery
 - **Backend Frameworks/Libraries:**
   - Node.js
   - Django
