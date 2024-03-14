@@ -96,6 +96,23 @@ This project is a multiplayer rock-paper-scissors game built using JavaScript an
 - Simple and intuitive user interface for easy gameplay
 - Error handling for invalid inputs and unexpected behavior
 
+### Car Rental Website
+
+**Description:**
+This project is a website for car rental services, allowing users to browse available cars, make reservations, and manage their bookings. The website provides a user-friendly interface for customers to search for cars based on their preferences, view car details and availability, and complete the booking process seamlessly.
+
+**Technologies Used:**
+- HTML5
+- CSS3
+- JavaScript
+
+**Key Features:**
+- User authentication and authorization for secure access
+- Car catalog with detailed information and images
+- Search functionality to filter cars based on criteria such as model, make, and price
+- Booking system allowing users to reserve cars for specified dates and times
+- Admin panel for managing car inventory, bookings, and user accounts
+
 
 ## Connect with Me
 
