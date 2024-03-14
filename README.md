@@ -65,9 +65,20 @@ This project is a banking application built using Python with a Graphical User I
 - Transaction history tracking
 - GUI design for user-friendly interaction
 
-### [Project Name 2]
+### Metric Converter with GUI
 
-[Short description of the project and its key features.]
+**Description:**
+This project is a metric converter application built using Java with a Graphical User Interface (GUI). It allows users to convert between different units of measurement such as length, weight, volume, and temperature. The application provides an intuitive and user-friendly interface for easy conversion.
+
+**Technologies Used:**
+- Java
+- JavaFX (for GUI)
+
+**Key Features:**
+- Conversion between various units of measurement (length, weight, volume, temperature)
+- User-friendly GUI for seamless interaction
+- Support for custom conversion factors
+- Error handling for invalid inputs
 
 ### [Project Name 3]
 
