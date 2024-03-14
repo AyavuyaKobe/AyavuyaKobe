@@ -113,8 +113,8 @@ This project is a website for car rental services, allowing users to browse avai
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- LinkedIn: https://za.linkedin.com/in/ayavuya-kobe
+- Email: Ayavuyakobe@yahoo.com
 - Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 
 <!---
